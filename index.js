@@ -888,7 +888,7 @@ if (text.includes("%alay")){
 	})
 }
 else if (text == '%ownerbot'){
-conn.sendMessage(id, 'Wa/me +628165466368' ,MessageType.text);
+conn.sendMessage(id, 'Wa/me +17016607496' ,MessageType.text);
 }
 if (text.includes('%ssweb')){
   var teks = text.replace(/%ssweb /, '')
